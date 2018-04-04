@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27421.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperData", "SuperData\SuperData.csproj", "{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Debug|x86.ActiveCfg = Debug|x86
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Debug|x86.Build.0 = Debug|x86
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Release|x86.ActiveCfg = Release|x86
+		{1553A7B7-BE8C-4127-B22D-24D38FACAA6F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1D8BC3-5B54-4385-BF0B-7CA37BB018AF}
+	EndGlobalSection
+EndGlobal

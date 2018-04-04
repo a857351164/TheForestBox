@@ -1,0 +1,22 @@
+C:\Users\85735\Desktop\森林助手 - 副本 - 副本\SuperData\obj\Release\SuperData.MainFrom.resources
+C:\Users\85735\Desktop\森林助手 - 副本 - 副本\SuperData\obj\Release\SuperData.Properties.Resources.resources
+C:\Users\85735\Desktop\森林助手 - 副本 - 副本\SuperData\obj\Release\SuperData.csproj.GenerateResource.cache
+C:\Users\85735\Desktop\森林助手 - 副本 - 副本\SuperData\obj\Release\SuperData.csproj.CoreCompileInputs.cache
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\SuperData.csprojResolveAssemblyReference.cache
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\SuperData.MainFrom.resources
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\SuperData.Properties.Resources.resources
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\SuperData.csproj.GenerateResource.cache
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\SuperData.csproj.CoreCompileInputs.cache
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\Newtonsoft.Json.dll
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\CSkin.xml
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\Newtonsoft.Json.pdb
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\Newtonsoft.Json.xml
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\SuperData.csproj.CopyComplete
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\森林盒子.exe.config
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\森林盒子.exe
+C:\Users\85735\Desktop\森林盒子\SuperData\bin\Release\森林盒子.pdb
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\森林盒子.exe
+C:\Users\85735\Desktop\森林盒子\SuperData\obj\Release\森林盒子.pdb
